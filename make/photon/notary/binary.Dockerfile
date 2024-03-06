@@ -1,4 +1,4 @@
-FROM golang:1.14.15
+FROM golang:bookworm
 
 ARG NOTARY_VERSION
 ARG MIGRATE_VERSION
